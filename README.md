@@ -5,9 +5,6 @@
   </p>
 <br>
 
-- 📝 I’m currently learning Web Development and Java
-- 📩 Contact: **contact@apisbot.xyz**
-
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
