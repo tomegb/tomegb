@@ -1,10 +1,9 @@
 # Hey :space_invader:
 
-#### Socials:
-> - Twitter: @yazui2
-> - Discord: yazui#0620
-> - Website: https://apisboot.xyz/
-
-#### Projects:
-> - [apis Discord Bot](https://github.com/yazui/apis-documentation)
-> - [apis Website](https://apisbot.xyz/)
+<br/>
+<p align="center">
+  <a href="https://github.com/yazui/" >
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yazui&theme=vue&show_icons=true" />
+  </a>
+ </p>
+<br/>
