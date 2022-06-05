@@ -5,8 +5,8 @@
   </p>
 <br>
 
-- I’m currently learning Web Development and Java
-- Contact: **contact@apisbot.xyz**
+- 📝 I’m currently learning Web Development and Java
+- 📩 Contact: **contact@apisbot.xyz**
 
 <br>
 
