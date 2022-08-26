@@ -6,7 +6,7 @@
 <br>
 
 - 📝 I’m currently learning Web Development and Java
-- 📩 Contact: **contact@apisbot.xyz**
+- 📩 Contact: **mail@tomegb.cloud**
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yazui&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
